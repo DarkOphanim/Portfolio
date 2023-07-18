@@ -1,0 +1,29 @@
+.presentacion__imagen{
+    display: block;
+    border-radius: 100%;
+}
+
+
+@media screen and (min-width: 0){
+    .presentacion__imagen{
+        width: 23%;
+    }
+    
+}
+
+@media screen and (min-width: 768px){
+    .presentacion__imagen{
+        width: 20%;
+    }
+}
+
+
+@media screen and (min-width: 992px){
+    .presentacion__imagen{
+        width: 30%;
+        width: 30%;
+        height: 30%;
+        max-width: 250px;
+        max-height: 250px;
+    }
+}

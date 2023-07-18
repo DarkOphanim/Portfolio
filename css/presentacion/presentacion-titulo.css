@@ -1,0 +1,22 @@
+.presentacion__titulo{
+    font-family: Amaranth;
+}
+
+@media screen and (min-width: 0){
+    .presentacion__titulo{
+        font-size: 1.5rem;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .presentacion__titulo{
+        font-size: 2.2rem;
+    }
+    
+}
+
+@media screen and (min-width: 992px){
+    .presentacion__titulo{
+        font-size: 2.5rem;
+    }
+}

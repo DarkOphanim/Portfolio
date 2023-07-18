@@ -1,0 +1,79 @@
+.hard-soft-skill__tarjeta{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    /*border: solid var(--grey2) 1px;*/
+    background-color: white;
+    background-repeat: no-repeat;    
+}
+
+.hard-skill__tarjeta--photoshop{
+    background-image: url(../../imgs/adobe-photoshop.png);
+}
+
+.hard-skill__tarjeta--js{
+    background-image: url(../../imgs/js.png);
+}
+
+.hard-skill__tarjeta--illustrator{
+    background-image: url(../../imgs/ilustrador-adobe.png);
+}
+
+.hard-skill__tarjeta--html{
+    background-image: url(../../imgs/html5.jpg);
+}
+
+.hard-skill__tarjeta--css{
+    background-image: url(../../imgs/css.png);
+}
+
+.hard-skil__tarjeta--csp{
+    background-image: url(../../imgs/csp.png);
+}
+
+.soft-skill__tarjeta--teamwork{
+    background-image: url(../../imgs/trabajo-equipo.png);
+}
+
+.soft-skill__tarjeta--follow{
+    background-image: url(../../imgs/notebook-follow.svg);
+}
+
+.soft-skill__tarjeta--trabajarmucho{
+    background-image: url(../../imgs/trabajo-duro.png);
+}
+
+.soft-skill__tarjeta--organizado{
+    background-image: url(../../imgs/organizado.png);
+}
+
+@media screen and (min-width: 0){
+    .hard-soft-skill__tarjeta{
+        width: 150px;
+        height: 100px;
+        margin: 0 1rem 1.2rem 0;
+        background-size: 23%;
+        background-position: bottom 45px left 10px;
+
+    }
+
+}
+@media screen and (min-width: 768px){
+        .hard-soft-skill__tarjeta{
+            width: 200px;
+            height: 120px;
+
+        }
+    
+}
+
+@media screen and (min-width: 992px){
+    .hard-soft-skill__tarjeta{
+        width: 200px;
+        height: 200px;
+        margin: 0 0.5rem 0.5rem 0;
+        background-size: 30%; 
+        background-position: bottom 50px left 15px;
+    }
+    
+}

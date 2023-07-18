@@ -1,0 +1,20 @@
+.experiencia__boton{
+    min-width: 120px;
+    padding: 1rem 2rem;
+    background-color: var(--banner-brown);   
+    border-radius: 2px;
+    color: white;
+    font-family: Amaranth;
+    font-size: 1rem;
+    text-decoration: none;
+    transition: all 1.2s;
+}
+
+.experiencia__boton:hover{
+    background-color: var(--banner-amarillo);
+    transform: scale(1.15);
+    font-weight: 700;
+    font-size: 1.2rem;
+}
+
+

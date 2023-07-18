@@ -1,0 +1,41 @@
+.formulario{
+    width: inherit;
+}
+
+.formulario label{         /**texto de la etiquetas**/
+    font-family: Lato;
+    color: var(--banner-amarillo);
+    font-size: 0.85rem;
+    margin-bottom: 0.25rem;
+}
+
+.formulario fieldset{      /**la caja completa**/
+    border: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 0;
+    padding: 0;
+    min-width: auto; /*deberia rreglar el problema de la pantalla*/
+}
+
+.formulario fieldset input{
+    border: none;
+    background-color: var(--background-color);
+    outline: none;
+    margin-right: 1rem;
+}
+
+
+.formulario textarea{
+    border: none;
+    background-color: var(--background-color);
+    resize: none;
+    margin-right: 1rem;
+}
+
+::placeholder{
+    color: var(--font-grey);
+    font-size: 0.85rem;
+
+}

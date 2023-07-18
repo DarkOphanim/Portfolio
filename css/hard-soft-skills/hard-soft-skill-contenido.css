@@ -1,0 +1,16 @@
+.hard-soft-skill__contenido{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+@media screen and (min-width: 768px){
+    .hard-soft-skill__contenido{
+        justify-content: space-evenly;
+    }
+}
+
+@media screen and (min-width: 992px){
+    .hard-soft-skill__contenido{
+        justify-content: center;
+    }
+}

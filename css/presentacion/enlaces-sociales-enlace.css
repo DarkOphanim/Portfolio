@@ -1,0 +1,34 @@
+.enlaces-sociales__enlace{
+    text-decoration: none;
+    color: var(--grey2);
+    cursor: pointer;
+    transition: all 1.5s; 
+}
+
+@media screen and (min-width: 0){
+    .enlaces-sociales__enlace{
+        font-size: 0.75rem;
+        font-weight: 700;
+    }
+
+}
+
+@media screen and (min-width: 768px){
+    .enlaces-sociales__enlace{
+        font-size: 1rem;
+    }
+
+}
+
+@media screen and (min-width: 992px){
+    .enlaces-sociales__enlace{
+        font-weight: 700;
+        font-size: 0.95rem;
+    }
+
+}
+
+.enlaces-sociales__enlace:hover{
+    color: var(--banner-amarillo);
+}
+

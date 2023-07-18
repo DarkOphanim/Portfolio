@@ -1,0 +1,25 @@
+.footer__texto{
+    color: var(--font-grey);
+    font-family: Raleway;
+}
+
+@media screen and (min-width: 0){
+    .footer__texto{
+        font-weight: 700;
+        font-size: 0.75rem;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .footer__texto{
+        font-weight: 300;
+        font-size: 1rem;
+    }
+}
+
+@media screen and (min-width: 992px){
+    .footer__texto{
+        font-weight: 300;
+        font-size: 0.75rem;
+    }
+}

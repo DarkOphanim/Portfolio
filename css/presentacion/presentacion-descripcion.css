@@ -1,0 +1,24 @@
+.presentacion__descripcion{
+    font-weight: 300;
+}
+
+@media screen and (min-width: 0){
+    .presentacion__descripcion{
+        font-size: 0.8rem;
+        margin-bottom: 0;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .presentacion__descripcion{
+        font-size: 1rem;
+    }
+}
+
+
+@media screen and (min-width: 992px){
+    .presentacion__descripcion{
+        font-size: 1.05rem;
+        margin-bottom: 2.5rem;
+    }
+}

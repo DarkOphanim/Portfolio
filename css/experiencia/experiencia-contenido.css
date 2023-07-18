@@ -1,0 +1,27 @@
+.experiencia__contenido{
+    display: flex;
+    flex-direction: column;
+}
+
+.experiencia__contenido--imagenes{
+    flex-wrap: wrap;
+    margin-bottom: 1rem;
+}
+
+/*Media Queries*/
+
+@media screen and (min-width: 0){
+    .experiencia__contenido--imagenes--principal{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+    }
+}
+
+@media screen and (min-width: 992px){
+    .experiencia__contenido--imagenes--principal{
+        flex-direction: row;
+        justify-content: center;
+    }
+}
