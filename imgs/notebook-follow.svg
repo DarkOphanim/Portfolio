@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-<svg width="800px" height="800px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g id="File / Notebook">
-<path id="Vector" d="M8 4H7.2002C6.08009 4 5.51962 4 5.0918 4.21799C4.71547 4.40973 4.40973 4.71547 4.21799 5.0918C4 5.51962 4 6.08009 4 7.2002V16.8002C4 17.9203 4 18.4801 4.21799 18.9079C4.40973 19.2842 4.71547 19.5905 5.0918 19.7822C5.5192 20 6.07899 20 7.19691 20H8M8 4H16.8002C17.9203 4 18.4796 4 18.9074 4.21799C19.2837 4.40973 19.5905 4.71547 19.7822 5.0918C20 5.5192 20 6.07899 20 7.19691V16.8036C20 17.9215 20 18.4805 19.7822 18.9079C19.5905 19.2842 19.2837 19.5905 18.9074 19.7822C18.48 20 17.921 20 16.8031 20H8M8 4V20M12 11H16M12 8H16" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:31.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:133.3333;}
+</style>
+<g id="File__x2F__Notebook">
+	<path id="Vector" class="st0" d="M187.5,125H175c-17.5,0-26.3,0-32.9,3.4c-5.9,3-10.7,7.8-13.7,13.7c-3.4,6.7-3.4,15.4-3.4,32.9
+		v150c0,17.5,0,26.2,3.4,32.9c3,5.9,7.8,10.7,13.7,13.7c6.7,3.4,15.4,3.4,32.9,3.4h12.5 M187.5,125H325c17.5,0,26.2,0,32.9,3.4
+		c5.9,3,10.7,7.8,13.7,13.7c3.4,6.7,3.4,15.4,3.4,32.9v150.1c0,17.5,0,26.2-3.4,32.9c-3,5.9-7.8,10.7-13.7,13.7
+		c-6.7,3.4-15.4,3.4-32.9,3.4H187.5 M187.5,125v250 M250,234.4h62.5 M250,187.5h62.5"/>
 </g>
 </svg>
