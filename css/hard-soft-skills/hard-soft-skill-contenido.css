@@ -3,6 +3,12 @@
     flex-wrap: wrap;
 }
 
+@media screen and (min-width:0px){
+    .hard-soft-skill__contenido{
+        justify-content: center;
+    }
+}
+
 @media screen and (min-width: 768px){
     .hard-soft-skill__contenido{
         justify-content: space-evenly;

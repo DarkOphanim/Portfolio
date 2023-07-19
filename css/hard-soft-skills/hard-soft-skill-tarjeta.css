@@ -8,31 +8,31 @@
 }
 
 .hard-skill__tarjeta--photoshop{
-    background-image: url(../../imgs/adobe-photoshop.png);
+    background-image: url(../../imgs/ps.svg);
 }
 
 .hard-skill__tarjeta--js{
-    background-image: url(../../imgs/js.png);
+    background-image: url(../../imgs/js.svg);
 }
 
 .hard-skill__tarjeta--illustrator{
-    background-image: url(../../imgs/ilustrador-adobe.png);
+    background-image: url(../../imgs/ai.svg);
 }
 
 .hard-skill__tarjeta--html{
-    background-image: url(../../imgs/html5.jpg);
+    background-image: url(../../imgs/html5.svg);
 }
 
 .hard-skill__tarjeta--css{
-    background-image: url(../../imgs/css.png);
+    background-image: url(../../imgs/css.svg);
 }
 
 .hard-skil__tarjeta--csp{
-    background-image: url(../../imgs/csp.png);
+    background-image: url(../../imgs/csp.svg);
 }
 
 .soft-skill__tarjeta--teamwork{
-    background-image: url(../../imgs/trabajo-equipo.png);
+    background-image: url(../../imgs/trabajo-equipo.svg);
 }
 
 .soft-skill__tarjeta--follow{
@@ -40,11 +40,11 @@
 }
 
 .soft-skill__tarjeta--trabajarmucho{
-    background-image: url(../../imgs/trabajo-duro.png);
+    background-image: url(../../imgs/trabajo-duro.svg);
 }
 
 .soft-skill__tarjeta--organizado{
-    background-image: url(../../imgs/organizado.png);
+    background-image: url(../../imgs/organizado.svg);
 }
 
 @media screen and (min-width: 0){

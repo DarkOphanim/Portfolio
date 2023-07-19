@@ -2,7 +2,7 @@
     width: 100vw;
     background-color: var(--banner-amarillo);
     margin: 0;
-    margin-bottom: 2rem;
+    /*margin-bottom: 2rem;*/
 }
 
 @media screen and (min-width: 0){
